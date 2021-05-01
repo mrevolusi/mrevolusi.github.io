@@ -1,0 +1,66 @@
+body{
+    background-color: blanchedalmond;
+    margin: 0%;
+}
+
+.header{
+    padding: 40px;
+    background-color: coral;
+}
+
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to right, #8dc3a7 0%, #353535 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: darkblue;
+}
+
+#PJJ{
+    lighting-color: darkorchid;
+    text-shadow: darkseagreen;
+}
+
+#bios{
+    lighting-color: deeppink;
+    text-shadow: ghostwhite;
+}
+
+table{
+    width: 99%;
+    background-color: lightpink;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tab{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    text-align: justify;
+    color: lightslategray;
+    lighting-color: mediumorchid;
+}
+
+#ganteng{
+    float: center;
+}
+
+#pengalaman{
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+.rec{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rosybrown;
+    text-align: justify;
+}
+
+.para{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin-left: 8px;
+    margin-right: 8px;
+    text-align: justify;
+}
