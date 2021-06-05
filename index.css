@@ -1,0 +1,77 @@
+body{
+    background-color: blanchedalmond;
+    margin: 0%;
+}
+
+.header{
+    padding: 40px;
+    background-color: rgb(255, 205, 187);
+}
+
+h2{
+    margin-top: 20mm;
+    text-align: center;
+    color: darkslateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to right, #8dc3a7 0%, #353535 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: darkblue;
+}
+
+#PJJ{
+    lighting-color: darkorchid;
+    text-shadow: darkseagreen;
+}
+
+#bios{
+    lighting-color: rgb(255, 188, 224);
+    text-shadow: ghostwhite;
+}
+
+table{
+    width: 99%;
+    background-color: lightpink;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table, th, td{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    text-align: justify;
+    color: rgb(200, 228, 255);
+    lighting-color: mediumorchid;
+}
+
+.tab{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    text-align: justify;
+    color: rgb(25, 140, 255);
+    lighting-color: lightpink;
+}
+
+#ganteng{
+    float: center;
+}
+
+#pengalaman{
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+.rec{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rosybrown;
+    text-align: justify;
+}
+
+.p{
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin-left: 8px;
+    margin-right: 8px;
+    text-align: justify;
+}
